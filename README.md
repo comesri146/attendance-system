@@ -19,3 +19,11 @@ This is a face attendance system developed in Python. It uses facial recognition
    .\env\Scripts\activate
    # On macOS/Linux
    source env/bin/activate
+    ```
+ ## Installing Dependencies
+
+To install the required libraries, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
