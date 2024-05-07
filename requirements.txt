@@ -1,0 +1,9 @@
+firebase-admin==6.4.0
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+dlib 
+distlib==0.3.8
+opencv-python==4.9.0.80
+cmake
+streamlit
+dlib-19.24.1-cp311-cp311-win_amd64.whl
