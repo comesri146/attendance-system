@@ -27,3 +27,13 @@ To install the required libraries, run the following command:
 ```bash
 pip install -r requirements.txt
 ```
+
+This will install all the necessary libraries specified in the requirements.txt file.
+
+## Usage
+1. **Ensure Webcam Accessibility:** Make sure your webcam is connected and accessible.
+2. **Run the Application:** Execute the main script to start the face attendance system:
+```bash
+python main.py
+```
+
